@@ -1,0 +1,5 @@
+(fp_lib_table
+{{- range . }}
+  (lib (name "{{.LibraryName}}")(type "KiCad")(uri "${KICAD6_FOOTPRINT_DIR}/{{.LibraryName}}.pretty")(options "")(descr ""))
+{{- end }}
+)
