@@ -1,4 +1,4 @@
-# go-kicad-lib-conf
+# go-kicad-footprints
 
 A super simple, lazily written, KiCAD config generator for footprint libraries.
 This was made because KiCAD does not allow you to select multiple directories,
